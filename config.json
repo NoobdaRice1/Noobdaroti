@@ -1,0 +1,12 @@
+{
+ "ip": "Friends_SMP_3295.aternos.me",
+ "port": "15860",
+ "name": "Batli",
+ "auto-night-skip": "false",
+ "loginmsg": "Bot Activated",
+ "prefix": "",
+ "login-enabled": "false",
+ "register-cmd": "/register (Super) (Super)",
+ "login-cmd": "/login (Super)",
+ "auto-reconnect": "true"
+}
